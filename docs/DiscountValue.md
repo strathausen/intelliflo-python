@@ -1,0 +1,11 @@
+# DiscountValue
+
+## Properties
+Name | Type | Description | Notes
+------------ | ------------- | ------------- | -------------
+**name** | **str** | Discount name | 
+**percentage** | **float** | Discount percentage | [optional] 
+**total** | [**CurrencyValue**](CurrencyValue.md) |  | [optional] 
+
+[[Back to Model list]](../README.md#documentation-for-models) [[Back to API list]](../README.md#documentation-for-api-endpoints) [[Back to README]](../README.md)
+
